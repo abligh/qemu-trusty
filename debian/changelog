@@ -1,3 +1,9 @@
+qemu (2.0.0+dfsg-2ubuntu1.1testmigrate1) UNRELEASED; urgency=medium
+
+  * First attempt at migration from qemu-kvm 1.0 (Precise)
+
+ -- Alex Bligh <alex@alex.org.uk>  Mon, 28 Jul 2014 18:14:00 +0000
+
 qemu (2.0.0+dfsg-2ubuntu1.1) trusty-proposed; urgency=low
 
   * remove alternatives for qemu: different architectures
